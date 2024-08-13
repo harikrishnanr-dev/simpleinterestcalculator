@@ -1,6 +1,5 @@
 
-
-[Live Demo](https://poetic-axolotl-1acba4.netlify.app/)
+<a href="https://poetic-axolotl-1acba4.netlify.app/" target="_blank">Live Demo</a>
 
 # Getting Started with Create React App
 
